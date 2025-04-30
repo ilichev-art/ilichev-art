@@ -3,8 +3,8 @@
 ### About me
 
 
-- 🔭 I'm currently working as manual QA engineer, and I'm planning to switch to AQA engineer
-- 🌱 I'm learning how to write good autotests
+- 🔭 AQA engineer with 4 years of experience in manual and automated testing
+- 🌱 improving my skills in Python and test frameworks
 - 📫 You can contact me via telegram: <a target="_blank" href="https://t.me/Citizen_art">@Citizen_art</a>
 
 ### Tools and Technologies
