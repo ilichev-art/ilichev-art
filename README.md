@@ -2,9 +2,6 @@
 
 ### About me
 
-
-- 🔭 AQA engineer with 4 years of experience in manual and automated testing
-- 🌱 improving my skills in Python and Go autotests
 - 📫 You can contact me via telegram: <a target="_blank" href="https://t.me/Citizen_art">@Citizen_art</a>
 
 ### Tools and Technologies
@@ -24,4 +21,3 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilichev-art&theme=github)
 </br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilichev_art&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilichev_art&theme=github)
