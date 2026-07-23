@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Artem
+### Hi there
 
 ### About me
 
